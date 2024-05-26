@@ -1,6 +1,5 @@
 {
   "name": "agent-panel-demo",
-  "homepage": "https://favianl.github.io/agent-panel-demo",
   "private": true,
   "version": "0.0.0",
   "type": "module",
