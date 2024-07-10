@@ -1,5 +1,16 @@
 # Agent Panel
 
+Web application to manage multiple bank agents with a dashboard to control withdrawals and deposits. The application flow is designed to manage a single general cash account for all added banks.
+
+## Features
+- Deposit and withdrawal buttons to fill out transaction forms with bank agent info to optimize time efficiency.
+  
+- History with filters to display transaction details.
+  
+- Admin Dashboard to manage banks and cash, and to allow the creation and management of new users.
+
+[Demo](https://favianl.github.io/agent-panel-demo/#/dashboard)
+
 ## Built with
 
 | Stage          | Technologies                                                  |
