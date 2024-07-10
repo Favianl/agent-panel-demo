@@ -1,6 +1,6 @@
 # Agent Panel
 
-Web application to manage multiple bank agents with a dashboard to control withdrawals and deposits. The application flow is designed to manage a single general cash account for all added banks.
+Web application to manage multiple bank agents with a dashboard to control withdrawals and deposits. The application flow is designed to manage a single general cash account for all added bank agents.
 
 ## Features
 - Deposit and withdrawal buttons to fill out transaction forms with bank agent info to optimize time efficiency.
